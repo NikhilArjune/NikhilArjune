@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Arjune</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Famp%2Fpin%2Flottieanimationchainstarters-in-2021--59813501292017265%2F&psig=AOvVaw2-VdulNuFMSh9k8eymOQcl&ust=1681388067630000&source=images&cd=vfe&ved=0CBIQjhxqFwoTCLi9__iqpP4CFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilarjune&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilarjune" /> </p>
 
