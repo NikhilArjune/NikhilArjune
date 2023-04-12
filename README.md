@@ -1,3 +1,4 @@
+![logo](https://github.com/NikhilArjune/NikhilArjune/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nikhil Arjune</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
