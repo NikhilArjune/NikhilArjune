@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilarjune&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilarjune" /> </p>
 
-- 🌱 I’m currently learning **Machine learning (ML)**
+- 🌱 I’m currently learning **Deep learning (DL)**
 
 - 📫 How to reach me **arjune.nikhil82@gmail.com**
 
